@@ -1,0 +1,200 @@
+*{
+    margin:0;
+    padding:0;
+    max-width:100%;
+}
+
+.navbar{
+    height:30px;
+    width: 100%;
+    background-color:#FFFFFF;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid rgb(198, 175, 175);
+}
+.link1{
+    margin-left: 100px;
+}
+.deals{
+    margin-left: 20px;
+}
+.contact{
+    margin-left: 20px;
+}
+.sell{
+    margin-left: 630px;
+}
+.watchlist{
+    margin-left: 20px;
+}
+.myEbay{
+    margin-left: 20px;
+}
+.bell{
+    margin-left: 20px;
+}
+.cart{
+    margin-left: 20px;
+}
+.navbar2{
+    height:80px;
+    width:100%;
+    border-bottom: 2px solid rgb(198, 175, 175);
+    display: flex;
+    
+    
+}
+.h1{
+    display: flex;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.h11{
+    color: #E64046;
+}
+.h12{
+    color: #0063D1;
+}
+.h13{
+    color:#F4AE01;
+}
+.h14{
+    color:#85B716;
+}
+.shopByCategory{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.search input{
+    margin-left: 20px;
+    margin-top: 15px;
+    width:750px;
+    height:40px;
+}
+.btn button{
+    margin-top: 15px;
+    margin-left: 20px;
+    background-color:#3665F3;
+    font-size: 20px;
+    width:150px;
+    height:45px;
+    color: #FFFFFF;
+    border: none;
+}
+.advance{
+    opacity: 0.7;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.advance:hover{
+    color:blue;
+    opacity: 1;
+}
+.navbar3{
+    height:30px;
+    width: 100%;
+    background-color:#FFFFFF;
+    display: flex;
+    align-items: center;
+    
+}
+.listItems .display{
+    display: flex;
+    list-style: none;
+    margin-left: 200px;
+    
+}
+.listItems .display li{
+    margin-left: 20px;
+    opacity: 0.7;
+}
+.listItems .display li:hover{
+color:blue;
+opacity: 1;
+}
+.promotion img{
+    width:100%;
+}
+.fav{
+    height:50px;
+    max-width:100%;
+    margin:50px;
+    padding:50px;
+  display: flex;
+    background-color: #EAEAEA;
+    border-radius: 20px;
+    
+}
+.btn1 button{
+    border-radius: 20px;
+    padding:5px;
+    margin-left:750px;
+    height:35px;
+    margin-top:5px;
+    
+}
+.btn1 button:hover{
+    background-color:black;
+    color:white;
+}
+.heading{
+    margin-left: 100px;
+}
+.box5{
+    height:200px;
+    display:flex;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+
+.circle{
+    height:160px;
+    width:160px;
+    border-radius: 50%;
+    background-color:#EAEAEA;
+    margin-left: 25px;
+
+}
+.circle img{
+    padding:25px 25px;
+    border-radius: 50%;
+}
+.circle h3{
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.banner{
+    margin-top: 50px;
+}
+.footer{
+    height:200px;
+    background-color: #f7f7f7;
+}
+.social{
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
+    
+}
+.insta{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.insta:hover{
+    color:red;
+}
+.fb{
+    margin-left: 20px;
+    
+    margin-top: 10px;
+}
+.fb:hover{
+    color:blue;
+}
+.X{
+    margin-left: 20px;
+    
+    margin-top: 10px;
+   
+}
